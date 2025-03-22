@@ -1,2 +1,16 @@
 apache-airflow-providers-microsoft-mssql
+apache-airflow-providers-microsoft-azure
 apache-airflow[azure]
+apache-airflow-providers-apache-spark
+apache-airflow-providers-http
+apache-airflow-providers-jdbc
+apache-airflow-providers-mysql
+apache-airflow-providers-odbc
+apache-airflow-providers-postgres
+apache-airflow-providers-presto
+apache-airflow-providers-sftp
+apache-airflow-providers-smtp
+apache-airflow-providers-snowflake
+apache-airflow-providers-sqlite
+apache-airflow-providers-ssh
+apache-airflow-providers-trino
